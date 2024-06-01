@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-color: burlywood;
+    padding-top: 100px;
+}
+img{
+    width: 195px;
+    padding: 3px 0px 3px 3px;
+}
+.form01{
+    display: flex;
+    background-color: white;
+    width:390px ;
+}
+form{
+        margin-left: 10px;
+        padding-top: 60px;     
+}
+input{
+    border: none;
+}
+button{
+    width: 170px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border: none;
+    font-weight: bold;
+}
+button:hover{
+    background-color: burlywood;
+    color: black;
+}
+hr{
+    width: 170px;
+}
+p a{
+    color: black;
+}
